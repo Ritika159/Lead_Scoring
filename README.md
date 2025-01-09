@@ -61,22 +61,26 @@ Leads are contacted by the sales team via emails and phone calls. However, due t
 1. Clone the repository:
 git clone https://github.com/Ritika159/lead_scoring.git
 
-2. Install dependencies:
-pip install -r requirements.txt
-
-3. Run the notebook:
+2. Run the notebook:
 jupyter notebook lead_scoring.ipynb
 
-4. Input the dataset (leads_data.csv), preprocess it, and train the model to generate lead scores.
+3. Input the dataset (leads_data.csv), preprocess it, and train the model to generate lead scores.
 
 📂 Repository Structure
+
 lead_scoring/
 ├── Assignment_Subjective_Questions_ML.pdf       # Subjective questions related to the case study
+
 ├── Lead_Scoring_Case_Study_Code.ipynb           # Jupyter notebook with the full analysis and model development
+
 ├── Lead_Scoring_Case_Study_Presentation.pdf     # Presentation summarizing findings and results
+
 ├── Lead_Scoring_Case_Study_Summary.pdf          # Comprehensive summary of the case study
+
 ├── Leads_data.csv                               # Dataset containing lead information
+
 ├── features.csv                                 # Processed feature data
+
 ├── README.md                                    # Project overview and instructions
 
 ✨ Key Insights
