@@ -1,6 +1,7 @@
 # Lead_Scoring
 
 📋 Project Overview
+
 X Education, an online education company, aims to improve its lead conversion process by focusing on potential leads (referred to as "Hot Leads"). Currently, the conversion rate is approximately 30%, and the company seeks a data-driven approach to identify high-potential leads more efficiently.
 
 This project involves building a Logistic Regression model to assign a lead score between 0 and 100 to each lead. The score helps prioritize leads for the sales team, improving conversion rates by focusing on the most promising prospects.
