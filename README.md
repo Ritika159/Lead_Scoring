@@ -69,6 +69,7 @@ jupyter notebook lead_scoring.ipynb
 📂 Repository Structure
 
 lead_scoring/
+
 ├── Assignment_Subjective_Questions_ML.pdf       # Subjective questions related to the case study
 
 ├── Lead_Scoring_Case_Study_Code.ipynb           # Jupyter notebook with the full analysis and model development
